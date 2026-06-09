@@ -10,7 +10,7 @@ It is fully compatible with Ethereum smart contracts while introducing optimizat
 ## Overview
 
 MegaEVM builds on established standards.
-Its latest hardfork, _Rex4_, is based on [Optimism Isthmus](https://specs.optimism.io/protocol/isthmus/overview.html), which in turn is adapted from [Ethereum Prague](https://ethereum.org/roadmap/pectra/).
+Its latest hardfork, _Rex5_, is based on [Optimism Isthmus](https://specs.optimism.io/protocol/isthmus/overview.html), which in turn is adapted from [Ethereum Prague](https://ethereum.org/roadmap/pectra/).
 This means:
 
 - All standard Solidity contracts work on MegaETH.
