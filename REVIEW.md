@@ -15,6 +15,7 @@ The centralized `pr-review` action already applies the baseline rubric (review m
 - Writing follows the layer-specific `AGENTS.md` rules for the directory being edited
 - Heading hierarchy is correct (no skipped levels)
 - Code examples use appropriate language tags in fenced code blocks
+- Each fact has exactly one authoritative home; detailed pages keep the implementation details, and overview or architecture pages link to them instead of restating details that will drift
 - Cross-references between layers use correct relative paths
 - External spec links use absolute GitBook URLs (not relative paths to `docs/spec/`)
 
